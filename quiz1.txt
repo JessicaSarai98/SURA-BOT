@@ -1,0 +1,6 @@
+hola
+perro
+gato
+agua
+fuego
+sol
